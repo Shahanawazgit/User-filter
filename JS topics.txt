@@ -1,0 +1,5 @@
+fetch API
+async await
+destrucring
+json
+array methods
